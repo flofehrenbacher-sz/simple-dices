@@ -1,4 +1,6 @@
-# fresh project
+# Simple dices
+
+Web application to simulate dices.
 
 ### Usage
 
