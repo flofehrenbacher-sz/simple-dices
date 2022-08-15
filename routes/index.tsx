@@ -1,6 +1,6 @@
 /** @jsx h */
 import { h } from 'preact'
-import Counter from '../islands/Counter.tsx'
+import Counter from '../islands/counter.tsx'
 
 export default function Home() {
   return (

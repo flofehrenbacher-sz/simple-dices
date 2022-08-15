@@ -2,7 +2,7 @@
 import { h } from 'preact'
 import { useState } from 'preact/hooks'
 
-import { Button } from '../components/Button.tsx'
+import { Button } from '../components/button.tsx'
 
 interface CounterProps {
   start: number
